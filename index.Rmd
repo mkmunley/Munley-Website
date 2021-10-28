@@ -1,0 +1,20 @@
+
+---
+title: "My Website"
+author: "Mary Kate Munley"
+date: "10/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Mary Kate
+
+My family has a spunky 13 year-old Bichon Frise while I personally am a proud mom to a red-footed tortoise named Georgia. I estimate she is approximately 5 years old but I have only had her for about a year. I personally will be adding a portuguese water dog puppy to the mix in late summer/early fall 2022 and am looking forward to having my own dog.
+
+
+![Georgia the Red-Footed Tortoise](Georgia.jpg)
+
+![At the beach with Tucker](BeachTucker.jpg)
