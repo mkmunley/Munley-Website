@@ -1,11 +1,9 @@
-
-
 name: "My-Website"
 navbar:
   title: "Mary Kate's Website"
   left:
     - text: "Home"
-      href: mywebsite.html
+      href: index.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<m.kmunley@gmail.com>
